@@ -12,6 +12,15 @@
         "id":3,
         "no":3,
         "roles":"Surveyor"
-    }]
+    }],
+  "Users":[{
+    "id":1,
+    "no":1,
+    "name":"Admin ngucek",
+    "password":"admin123",
+    "confirmPassword":"admin123",
+    "roles":"admin"
+  }]
+  
 
 }
