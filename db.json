@@ -17,6 +17,7 @@
     "id":1,
     "no":1,
     "name":"Admin ngucek",
+    "username":"adminngucek",
     "password":"admin123",
     "confirmPassword":"admin123",
     "roles":"admin"
