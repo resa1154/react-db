@@ -21,6 +21,25 @@
     "password":"admin123",
     "confirmPassword":"admin123",
     "roles":"admin"
+  }],
+  "Customer":[{
+    "id":1,
+    "no":1,
+    "fullname":"Admin Ngucek",
+    "firstName":"Admin",
+    "lastName":"Ngucek",
+    "email":"adminngucek11@gmail.com",
+    "phoneNumber":"081222456830",
+    "address":"Jl. Holis Regency",
+     "province":"Jawa Barat",
+        "district":"",
+        "subDistrict":"",
+        "city":"Bandung",
+        "postal_code":"50333",
+        "status":"Aktif",
+      "password":"1234",
+        "confirm_password":""
+    
   }]
   
 
