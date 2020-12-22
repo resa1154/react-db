@@ -39,7 +39,23 @@
         "status":"Aktif",
       "password":"1234",
         "confirm_password":""
-    
+  },{
+    "id":2,
+    "no":2,
+    "fullname":"Ujang Ngucek",
+    "firstName":"ujang",
+    "lastName":"Ngucek",
+    "email":"adminngucek11@gmail.com",
+    "phoneNumber":"081290256830",
+    "address":"Jl. Holis Regency",
+     "province":"Jawa Barat",
+        "district":"",
+        "subDistrict":"",
+        "city":"Bandung",
+        "postal_code":"50333",
+        "status":"Aktif",
+      "password":"1234",
+        "confirm_password":""
   }]
   
 
