@@ -56,6 +56,19 @@
         "status":"Aktif",
       "password":"1234",
         "confirm_password":""
+  }],
+  "Stores":[{
+    "id":1,
+    "no":1,
+    "storename":"Holis Laundry",
+    "status":"aktif",
+    
+  },{
+    "id":2,
+    "no":2,
+    "storename":"cleaner",
+    "status":"nonAktif",
+    
   }]
   
 
