@@ -61,15 +61,12 @@
     "id":1,
     "no":1,
     "storename":"Holis Laundry",
-    "status":"aktif",
-    
+    "status":"aktif"
   },{
     "id":2,
     "no":2,
     "storename":"cleaner",
-    "status":"nonAktif",
-    
+    "status":"nonAktif"
   }]
   
-
 }
